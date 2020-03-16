@@ -21,12 +21,11 @@
 					<label for="lname">Last Name</label>
 					<input type="text" placeholder="Enter your last name" name="lname" required>
 					<br>
-					<input type="radio" id="male" name="gender" value="male" required>
-					<label for="male">Male</label><br>
-					<input type="radio" id="female" name="gender" value="female">
-					<label for="female">Female</label><br>
-					<input type="radio" id="other" name="gender" value="other">
-					<label for="other">Other</label>
+					<label for="cars">Provide your gender:</label>
+					<select id="gender" name="gender">
+					  <option value="male">M</option>
+					  <option value="female">F</option>
+					</select>
 					<br>
 					<label for="birthday">Birthday:</label>
 					<input type="text" id="birthday" name="birthday" required>
