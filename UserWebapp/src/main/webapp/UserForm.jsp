@@ -28,7 +28,7 @@
 					</select>
 					<br>
 					<label for="birthday">Birthday:</label>
-					<input type="text" id="birthday" name="birthday" required>
+					<input type="text" id="birthday" name="birthday">
 					<br>
 					<label for="homeAddress">Home Address</label>
 					<input type="text" placeholder="Enter your home addresss" name="homeAddress">
