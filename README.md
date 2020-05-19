@@ -1,1 +1,1 @@
-This is a simple user management web application, which uses the technologies of Servlet, JSP, Hibernate and MySQL.
+This is a web application which allows the the addition, deletetion and view of the list of users. It is built using the JSP and Servlet JavaEE technologies. Furthermore, for its database layer it uses the Hibernate ORM, which utilizes the MySQL DBMS.
